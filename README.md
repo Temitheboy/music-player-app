@@ -1,1 +1,1 @@
-This is a music player
+This is a music player app ui
